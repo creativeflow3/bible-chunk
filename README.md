@@ -85,6 +85,10 @@ Method: POST
 Description: Triggers the pipeline. It reads the local file, aggregates chapters, batch-requests 1536-dimensional semantic vectors from OpenAI, and stores the records securely inside your target Pinecone index.
 
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ---
 
 ### 💡 Pro Tip
